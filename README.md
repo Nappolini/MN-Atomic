@@ -40,7 +40,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 
 ```
 
-##Position
+## Position
 ```css
 .relative { position: relative; }
 
@@ -49,7 +49,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 .fixed { position: fixed;}
 ```
 
-##Text
+## Text
 ```css
 .txt-l{ text-align: left; }
 
@@ -58,7 +58,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 .txt-c{ text-align: center; }
 ```
 
-##Display
+## Display
 ```css
 .block{ display: block}; 
 
@@ -71,7 +71,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 .block{ display: block}; 
 ```
 
-##colors
+## colors
 ```css
 .off-white{ background-color: #F0FFFF; }
 
@@ -88,7 +88,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 .deep-pink{ background-color: 	#FF1493; }
 ```
 
-###OverFlow 
+### OverFlow 
 ```css
 .overflow-h { overflow: hidden; }
 
