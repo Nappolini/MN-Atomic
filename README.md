@@ -66,6 +66,8 @@ This is a starter file that inludes:
 .txt-r{ text-align: right;}
 
 .txt-c{ text-align: center; }
+
+.txt-dec-none { text-decoration: none; }
 ```
 
 ## Display
@@ -79,15 +81,18 @@ This is a starter file that inludes:
 .block{ display: block}; 
 
 
+
 ```
 
 ## colors
 ```css
 .off-white{ background-color: #F0FFFF; }
 
+.white{ background-color: #FFFFFF; }
+
 .black{ background-color: #000000; }
 
-.aqua{ background-color: 	#00FFFF; }
+.aqua{ background-color:#00FFFF; }
 
 .cyan{ background-color: #00FFFF; }
 
@@ -96,6 +101,8 @@ This is a starter file that inludes:
 .dark-orange{ background-color: #FF8C00; }
 
 .deep-pink{ background-color: 	#FF1493; }
+
+
 ```
 
 ### OverFlow 
