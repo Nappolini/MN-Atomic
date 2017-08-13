@@ -14,7 +14,8 @@ This is the start of the Base Atomic CSS for rapid prototyping
 
 .flex-j-end{ justify-content: flex-end;}
 
-
+```
+```
 // Justify Content
 .just-start{justify-content: flex-start;}
 
@@ -24,8 +25,9 @@ This is the start of the Base Atomic CSS for rapid prototyping
 .align-start { align-items: flex-start;}
 
 .align-end {align-items: flex-end;}
+```
 
-
+```
 // Flex-Wrap 
 .flex-wrap {flex-wrap: wrap;}
 
