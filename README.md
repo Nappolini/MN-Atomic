@@ -1,7 +1,7 @@
 Base Atomic CSS     
 =============================
 
-This is the start of the Base Atomic CSS for rapid prototyping 
+This is the start of the Base Atomic CSS for rapid prototyping. The idea behind this project is to provide a base set of utility classes that can be eaisily added to a new or existing project. It is designed to be modular so if you dont use a set of utility classes remove it from the import statement on the _utility-dir.scss file. 
 
 ### Margin
 
@@ -68,7 +68,7 @@ This is the start of the Base Atomic CSS for rapid prototyping
 
 .block{ display: block}; 
 
-.block{ display: block}; 
+
 ```
 
 ## colors

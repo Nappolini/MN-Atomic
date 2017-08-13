@@ -303,9 +303,13 @@ hr {
   -ms-flex-direction: column;
       flex-direction: column; }
 
-.flex-j-end {
-  -ms-flex-pack: end;
-      justify-content: flex-end; }
+.flex-rr {
+  -ms-flex-direction: row-reverse;
+      flex-direction: row-reverse; }
+
+.flex-cr {
+  -ms-flex-direction: column-reverse;
+      flex-direction: column-reverse; }
 
 .just-start {
   -ms-flex-pack: start;
@@ -344,3 +348,48 @@ hr {
 
 .txt-c {
   text-align: center; }
+
+.overflow-h {
+  overflow: hidden; }
+
+.overflow-x-s {
+  overflow-x: scroll; }
+
+.overflow-y-s {
+  overflow-y: scroll; }
+
+.off-white {
+  background-color: #F0FFFF; }
+
+.black {
+  background-color: #000000; }
+
+.aqua {
+  background-color: #00FFFF; }
+
+.cyan {
+  background-color: #00FFFF; }
+
+.crimson {
+  background-color: #DC143C; }
+
+.dark-orange {
+  background-color: #FF8C00; }
+
+.deep-pink {
+  background-color: #FF1493; }
+
+.block {
+  display: block; }
+
+.block-in {
+  display: inline-block; }
+
+.none {
+  display: none; }
+
+.block {
+  display: block; }
+
+.block {
+  display: block; }
