@@ -5,8 +5,11 @@ This is the start of the Base Atomic CSS for rapid prototyping
 
 ## Flexbox 
 
-
-
+```
+.flex{
+    diisplay: flex; 
+}
+```
 
 
 ```javascript
