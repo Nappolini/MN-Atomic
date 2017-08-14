@@ -113,3 +113,9 @@ This is a starter file that inludes:
 
 .overflow-y-s { overflow-y: scroll; }
 ```
+
+
+### list
+```css
+.list-sn { list-style: none; }
+```
