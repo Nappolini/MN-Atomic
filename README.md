@@ -102,6 +102,19 @@ This is a starter file that inludes:
 
 .deep-pink{ background-color: 	#FF1493; }
 
+.light-blue{ background-color: 	#bfd7ff; }
+
+.pale-green{ background-color: 	#b5e0b1; }
+
+.army-green{ background-color: 	#699165 }
+
+.dark-red{ background-color: 	#681a0a; }
+
+.gold{ background-color: 	#aa721e; }
+
+.dark-red{ background-color: 	#510f13; }
+
+
 
 ```
 
