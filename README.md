@@ -112,7 +112,6 @@ This is a starter file that inludes:
 
 .gold{ background-color: 	#aa721e; }
 
-.dark-red{ background-color: 	#510f13; }
 
 
 
